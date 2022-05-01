@@ -15,6 +15,6 @@
 <body>
     <a href="logout.php">Logout</a>
     <br>
-    <h1>Welcome User</h1>
+    <h1>Welcome <?php echo $user_data['user_name'];></h1>
 </body>
 </html>
