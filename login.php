@@ -27,8 +27,9 @@
                     }
                 }
             }
+            echo "Wrong username or password, try again";
         } else {
-            echo "Please enter valid info";
+            echo "Wrong username or password, try again";
         }
     }
 
