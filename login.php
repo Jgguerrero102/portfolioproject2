@@ -16,7 +16,7 @@
     <input type="password" name="password">
     <input type="submit" value="Login">
 
-    <a href="Logim.php">Login</a>
+    <a href="login.php">Login</a>
 </div>
 </body>
 </html>
